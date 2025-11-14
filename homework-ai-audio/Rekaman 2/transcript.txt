@@ -1,0 +1,10 @@
+Speaker 1: Kamu pernah kepikiran nggak, sekarang AI makin proaktif banget di workflow pengembangan web?
+Speaker 2: Maksudnya gimana tuh, jangan-jangan AI udah mau jadi CTO? hehehe
+Speaker 1: Hahaha iya, bisa jadi. Bayangin, dari desain figma atau sketch, AI bisa langsung otomatis jadi kode. Jadi nggak usah lagi copy–paste pixel demi pixel.
+Speaker 2: Wah, jadi developer bisa tidur lebih lama ya? ketawa tipis
+Speaker 1: Hahaha bisa juga! Tapi jangan kebanyakan tidur, nanti project nggak kelar. Selain konversi, AI juga bisa optimasi performa web. Misalnya, bikin loading lebih cepat atau kasih saran struktur kode yang lebih rapih.
+Speaker 2: Jadi kayak punya intern rajin, tapi nggak pernah pulang kantor ya? tawa korporat
+Speaker 1: Hahaha tepat sekali. Bahkan AI bisa kasih rekomendasi UI/UX juga. Misalnya, “eh tombol checkout kamu kurang keliatan,” atau “warna ini kontrasnya nggak ramah mata.”
+Speaker 2: Aduh, AI kayak mentor cerewet tapi sayang. hahaha
+Speaker 1: Iya, jadi developer bisa fokus ke hal besar: ide, inovasi, pengalaman user. Bukan ribet sama pixel 1–2 milimeter.
+Speaker 2: Kalau gitu masa depan web development bisa lebih cepat, lebih rapi, dan lebih fun. Tinggal kitanya aja siap nggak kerja bareng AI.
