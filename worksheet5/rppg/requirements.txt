@@ -1,0 +1,14 @@
+# rPPG Heart Rate Monitor - Requirements
+# Python 3.8+ required
+
+# Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Optional: untuk development
+# matplotlib>=3.7.0  # untuk plotting/debugging
+# jupyter>=1.0.0     # untuk notebook development

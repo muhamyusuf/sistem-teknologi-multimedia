@@ -1,0 +1,3 @@
+# create gitignore in rppg folder
+__pycache__/
+*.pyc
