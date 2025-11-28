@@ -247,44 +247,6 @@ Inline documentation:
 
 ---
 
-## Pemenuhan Rubrik Tugas
-
-### Implementasi Pipeline Dasar (30%)
-- Face detection: MediaPipe dengan 468 landmarks
-- ROI extraction: 3 regions (forehead + cheeks)
-- Signal extraction: Spatial averaging RGB
-- Detrending: Polynomial + linear
-- Bandpass filter: Butterworth 0.75-2.5 Hz
-- FFT: Dengan parabolic interpolation
-
-### Kapabilitas Real-time (25%)
-- Webcam input: `cv2.VideoCapture(0)`
-- Sliding window: `deque` buffers untuk temporal processing
-- FPS: 23-30 (smooth real-time performance)
-- Continuous update: Event loop di main application
-
-### Peningkatan Kualitas (25%)
-8 improvements implemented:
-1. POS method (advanced)
-2. Multi-ROI fusion
-3. Quality-based ROI selection
-4. Multi-method BPM (3 algorithms)
-5. Signal quality assessment
-6. Motion detection
-7. Temporal consistency
-8. Professional UI dengan graphs
-
-### Kualitas Kode (20%)
-- Modular architecture (core/utils/ui)
-- Clean code principles (SOLID)
-- Type hints & docstrings
-- Comprehensive documentation
-- PEP 8 compliant
-
-**Total Score Estimation**: **100/100**
-
----
-
 ## Kesimpulan
 
 Project rPPG Heart Rate Monitor ini berhasil mengimplementasikan sistem monitoring detak jantung contactless yang:
@@ -294,8 +256,6 @@ Project rPPG Heart Rate Monitor ini berhasil mengimplementasikan sistem monitori
 3. **Robust**: Handling motion, lighting, signal quality
 4. **Professional**: Clean architecture, comprehensive documentation
 5. **Advanced**: POS method, multi-ROI, 8+ improvements
-
-Sistem ini tidak hanya memenuhi semua requirement tugas, tetapi juga menerapkan best practices dalam software engineering dan signal processing yang menjadikannya production-ready.
 
 ---
 
@@ -307,7 +267,7 @@ Terima kasih kepada:
 1. **Dito Rifki Irawan (122140153)**
 2. **Zefanya Danovanta Tarigan (122140101)**
 
-Atas kontribusi dan referensi project rPPG pada mata kuliah **Pengolahan Sinyal Digital** yang sangat membantu dalam pengembangan project tugas Sistem Teknologi Multimedia ini.
+Atas kontribusi dan referensi project rPPG pada mata kuliah **Pengolahan Sinyal Digital** yang sangat membantu dalam pengembangan tugas Sistem Teknologi Multimedia saya.
 
 3. Co-pilot Claude Sonet 4.5 karena sudah membantu penyusunan code, penyusunan dokumentasi, dan sebagai asisten
 ![Prompt Screenshot](./images/bukti-chat.png)
